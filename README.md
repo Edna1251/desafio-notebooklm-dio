@@ -1,18 +1,15 @@
-# 🛡️ Reserva de Emergência: Seu Escudo Financeiro
+# 🛡️ Projeto: Reserva de Emergência com NotebookLM
 
-Este repositório contém um guia de estudo avançado sobre proteção financeira, desenvolvido para o desafio da DIO utilizando o **NotebookLM**.
+Este projeto apresenta um guia completo de educação financeira focado em segurança e resiliência.
 
-## 🚀 O que aprendi neste estudo
-A partir da análise das fontes, consolidei os seguintes pilares:
+## 📁 Ficheiros do Projeto
+* **Miniguia de Estudo**: Conceitos fundamentais, glossário e prompts de IA.
+* **Escudo Financeiro**: Detalhamento sobre a Regra 50-30-20 e estratégias de investimento.
 
-* **Método 50-30-20**: Divisão do orçamento entre Necessidades (50%), Desejos (30%) e Quitação de Dívidas/Investimentos (20%)[cite: 1].
-* **Cálculo da Reserva**: Diferenciação entre o perfil CLT (3-6 meses) e o perfil autônomo (6-12 meses) para garantir resiliência[cite: 1].
-* **Pague-se Primeiro**: A importância de priorizar a reserva assim que a renda é recebida, transformando a poupança em um hábito[cite: 1].
-* **Instrumentos Financeiros**: Onde alocar o dinheiro com segurança, focando em Tesouro Selic e CDBs de liquidez diária[cite: 1].
+## 💡 Principais Conceitos Abordados
+- **Número Mágico**: Cálculo da reserva para diferentes perfis (CLT, Autônomos, Empresários).
+- **Onde Investir**: Opções com alta liquidez e baixo risco (Tesouro Selic e CDB).
+- **Regra 50-30-20**: Divisão do orçamento para garantir o hábito de poupar.
 
-## 📂 Arquivos de Entrega
-1. **Miniguia de Estudo**: Resumo prático com glossário e perguntas estratégicas.
-2. **Guia Escudo Financeiro**: Detalhamento técnico sobre organização orçamentária.
-
-## 🤖 Uso da IA (NotebookLM)
-Utilizei a IA para sintetizar textos complexos e gerar uma **Biblioteca de Prompts** que permite revisar o conteúdo rapidamente no futuro.
+---
+*Trabalho desenvolvido para o desafio da DIO utilizando Inteligência Artificial para curadoria de conhecimento.*
